@@ -1,0 +1,7 @@
+import logging
+import os
+
+
+FILE_ADMIN_ICON_SIZES = (16, 32, 48, 64)
+FILE_IS_PUBLIC_DEFAULT = True
+FILER_ENABLE_PERMISSIONS = False
